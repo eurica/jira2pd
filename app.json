@@ -1,0 +1,5 @@
+{
+  "name": "jira2pd",
+  "description": "Opens and closes PagerDuty incidents from JIRA tickets",
+  "website": "https://euri.ca/"
+}
